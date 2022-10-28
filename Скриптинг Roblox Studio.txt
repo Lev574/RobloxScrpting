@@ -1,0 +1,47 @@
+Функции:
+
+
+local function Названия Функции ()
+     (Тут Можно прописывать любые скрипты)
+
+end
+
+game.Workspace.(ПАРТ КОТОРЫЙ АТИВИРУЕТ ФУНЦЫЮ).Touched:Connect(названия Фунции)
+
+game.Players.PlayerAdded:Connect(названия Фунции)
+
+
+
+Переменные:
+
+if - Если
+
+Then - То/Тогда
+
+else - иначе
+
+elseif - Это переменная как if только эту переменную можно прописывать много раз) 
+
+Цыклы:
+
+while true do 
+   game.Workspace.Part.BrickColor = BrickColor.Random
+
+end
+
+
+цыклы2:
+
+repeat
+
+
+
+until
+
+
+
+
+
+
+
+
